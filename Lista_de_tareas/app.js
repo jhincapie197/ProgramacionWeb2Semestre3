@@ -27,7 +27,11 @@ function agregarTarea(){
     eliminar.classList.add('bi', 'bi-trash3-fill', 'icono-eliminar');
     eliminar.addEventListener('click', eliminarTarea);
 
-    iconos.append(completar, eliminar);
+    let editar = document.createElement('i');
+    editar.classList.add('bi', 'bi-pencil-square', 'icono-editar');
+    editar.addEventListener('click', editarTarea);
+
+    iconos.append(completar, eliminar, editar);
 
     // Agregar tarea a la lista
     listaDeTarea.appendChild(tareaNueva);
@@ -46,7 +50,23 @@ function eliminarTarea(e){
   tarea.remove();
 }
 
-boton-addEventListener('click', agregarTarea);
+function editarTarea(e) {
+  // Obtener el elemento de tarea desde el evento
+  let tarea = e.target.parentNode.parentNode;
+  let textoActual = tarea.querySelector('p').innerText;
+
+  // Solicitar al usuario que edite el texto de la tarea
+  let nuevoTexto = prompt("Edita la tarea:", textoActual);
+
+  // Verificar que se haya ingresado un nuevo texto
+  if (nuevoTexto !== null && nuevoTexto.trim() !== "") {
+      tarea.querySelector('p').innerText = nuevoTexto;
+  } else if (nuevoTexto !== null) {
+      alert("Debes escribir una tarea");
+  }
+}
+
+boton.addEventListener('click', agregarTarea);
 
 input.addEventListener('keydown', (e) =>{
   if(e.key === 'Enter'){

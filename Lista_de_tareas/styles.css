@@ -58,7 +58,7 @@ button{
   padding: 10px;
   color: white;
   background-color: #1312a8;
-  border-radius: 20px;
+  font-size: 22px;
   border: none;
   cursor: pointer;
   user-select: none;
@@ -116,7 +116,12 @@ i{
   color: white;
 }
 
+.icono-editar{
+  color: coral;
+}
+
 .icono-completar:hover,
-.icono-eliminar:hover{
+.icono-eliminar:hover,
+.icono-editar:hover{
   background-color: rgb(255, 255, 255, 0.523);
 }
