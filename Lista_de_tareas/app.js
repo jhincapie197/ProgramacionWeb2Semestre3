@@ -61,7 +61,7 @@ function editarTarea(e) {
   // Verificar que se haya ingresado un nuevo texto
   if (nuevoTexto !== null && nuevoTexto.trim() !== "") {
       tarea.querySelector('p').innerText = nuevoTexto;
-  } else if (nuevoTexto !== null) {
+  } else {
       alert("Debes escribir una tarea");
   }
 }
