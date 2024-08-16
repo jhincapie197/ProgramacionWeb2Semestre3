@@ -1,0 +1,8 @@
+LocalStorage: guarda datos de manera permanente en el navegador
+SessionStorage: guarda datos de manera temporal en el navegador
+
+key(): verificar si una lista o coleccion existe
+setItem(): crear una lista o colección de datos
+getItem(): obtener los datos de una lista o colección
+removeItem(): eliminar una lista o colección de datos
+clear(): eliminar todas las listas existentes
