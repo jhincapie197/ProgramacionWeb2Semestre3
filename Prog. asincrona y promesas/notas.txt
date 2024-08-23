@@ -1,0 +1,9 @@
+Programacion asincrona: se utiliza cuando se debe esperar un tiempo para su ejecución
+
+*Promesas:
+    *resolve(): cuando despues de un tiempo de espera, la respuesta es positiva
+    *reject(): cuando despues de un tiempo de espera, la respuesta es negativa
+
+*Manejar promesas: hay dos formas de manejar las promesas
+    *then() y catch()
+    *Async / Await
