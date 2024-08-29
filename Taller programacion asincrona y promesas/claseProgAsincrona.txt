@@ -1,0 +1,9 @@
+La programacion Asincrona: Es la programacion que se espera en un retardo.
+
+* Promesas: se va a tener dos respuestas
+- resolve() Es cuando despues de un tiempos de la respuesta es positiva
+- reject() Es cuando despues de un tiempo de respuesta da una respuesta negativa
+
+* Hay dos formas de Manejar las Promesas
+- then () y catch()
+- Async / Await
