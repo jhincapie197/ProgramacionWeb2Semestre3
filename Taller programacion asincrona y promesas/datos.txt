@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+        "titulo": "Spiderman",
+        "lanzamiento": 2008,
+        "genero": "Ciencia Ficcion",
+        "duracion": 120,
+        "imagen": "https://i.blogs.es/7bb0f0/captura-de-pantalla-2022-06-03-a-las-10.57.17/840_560.jpeg"
+    },
+    {
+        "id":2,
+        "titulo": "Rapidos y Furiosos",
+        "lanzamiento": 2002,
+        "genero": "Accion",
+        "duracion": 130,
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/semana/OPVPGNZRNBFD3OPQWRVR34QQXM.jpg"
+    },
+    {
+        "id":3,
+        "titulo": "Piratas del Caribe",
+        "lanzamiento": 2000,
+        "genero": "Infantil",
+        "duracion": 110,
+        "imagen": "https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    },
+    {
+        "id": 4,
+        "titulo": "Los Pitufos",
+        "lanzamiento": 2000,
+        "genero": "Infantil",
+        "duracion": 110,
+        "imagen":"https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    },
+    {
+        
+        "id": 5,
+        "titulo": "Ciudad de Dios",
+        "lanzamiento": 2013,
+        "genero": "Documental",
+        "duracion": 110,
+        "imagen":"https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    },
+    {
+        
+        "id": 6,
+        "titulo": "Cruzadas",
+        "lanzamiento": 2000,
+        "genero": "Documental",
+        "duracion": 110,
+        "imagen":"https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    },
+    {
+        
+        "id": 7,
+        "titulo": "Caperusita",
+        "lanzamiento": 2000,
+        "genero": "Infantil",
+        "duracion": 110,
+        "imagen":"https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    },
+    {
+        
+        "id": 8,
+        "titulo": "Blancanieves",
+        "lanzamiento": 2000,
+        "genero": "Infantil",
+        "duracion": 110,
+        "imagen":"https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    },
+    {
+        
+        "id": 9,
+        "titulo": "Los hermanos green",
+        "lanzamiento": 2000,
+        "genero": "Infantil",
+        "duracion": 110,
+        "imagen":"https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    },
+    {
+        
+        "id": 10,
+        "titulo": "Spirit",
+        "lanzamiento": 2000,
+        "genero": "Infantil",
+        "duracion": 110,
+        "imagen":"https://i.blogs.es/d74b02/piratas-del-caribe/1366_2000.jpeg"
+    }
+    
+]

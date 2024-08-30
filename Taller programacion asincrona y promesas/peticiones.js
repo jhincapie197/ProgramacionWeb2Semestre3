@@ -10,8 +10,8 @@ boton.addEventListener("click", ()=>{
 
 // funcion para realizar la peticion a la API
 function peticion(){
-    //let url = "http://localhost/apiPeliculas/datos.txt"
-    let url = " https://pokeapi.co/api/v2/pokemon/ditto"
+    let url = "http://localhost/apiPeliculas/datos.txt"
+    //let url = " https://pokeapi.co/api/v2/pokemon/ditto"
     //metodo fetch para realizar la peticion
 
     fetch(url,{
