@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Carne asada",
+        "descripcion": "Corte de carne de res asado al carbón o a la plancha. Tradicionalmente se acompaña con alguna salsa picante, guacamole, frijoles y tortillas; estos complementos cambian dependiendo de la región del país.",
+        "imagen": "https://thefoodtech.com/wp-content/uploads/2020/03/Carne-asada-828x548.jpg",
+        "fecha": "26/09/2024"
+
+    },
+    {
+        "titulo": "Carne a la llanera",
+        "descripcion": "Se trata básicamente de una carne de ternera sazonada con ajo, cebolla, especias y, si es del gusto de la persona, cerveza, colocada en largos palillos (chuzos) y asada a fuego lento por cuatro horas.",
+        "imagen": "https://www.rcnradio.com/_next/image?url=https%3A%2F%2Ffiles.rcnradio.com%2Fpublic%2Fstyles%2F16_9%2Fpublic%2F2024-02%2Fcarne.jpg%3FVersionId%3DFq_ikOHG2.0IVSffEh2e_S3hxPux6W5Q%26itok%3DDB0HMZnX&w=3840&q=75",
+        "fecha": "26/09/2024"
+
+    },
+    {
+        "titulo": "Carne al barril",
+        "descripcion": "Las costillas de cerdo son una opción clásica y popular para asar en un barril ahumador. Gracias a su combinación de carne jugosa y grasa, la cual se derrite lentamente durante la preparación, se vuelven increíblemente tiernas y sabrosas.",
+        "imagen": "https://jbarrelsmoker.com/cdn/shop/files/86bde1e6-f8da-4fcf-abb3-ea47b9176384_001af96c-c203-44b9-8693-c84b00539644.jpg?v=1715355189&width=1445",
+        "fecha": "26/09/2024"
+
+    },
+    {
+        "titulo": "Chicharron crujiente",
+        "descripcion": "Se elabora con panceta de cerdo y se fríe hasta que la piel esté crujiente y su carne tierna y jugosa. Este se puede comer solo, bañado en una salsa o como aderezo para otros platos.",
+        "imagen": "https://unareceta.com/wp-content/uploads/2017/08/chicharron-.jpg",
+        "fecha": "26/09/2024"
+
+    }
+]
