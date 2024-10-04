@@ -1,0 +1,7 @@
+Hooks
+
+Funciones o metodos avanzados de react para manejo de estado y funcionalidades especificas
+
+useState() -> se usa para renderizar el cambio de alguna variable en el componente
+useEffect() -> se usa para tener un registro de los cambios en las variables de componentes
+useContext() -> se usa para generar variables globales
