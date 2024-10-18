@@ -1,0 +1,729 @@
+{
+    "Arroces": [
+        {
+            "titulo":"Arroz chaufa peruano",
+            "subtitulo": "El arroz chaufa es un plato emblemático de la cocina peruana que combina la tradición culinaria china con los ingredientes y sabores peruanos.",
+            "texto":"El arroz chaufa es un arroz salteado con verduras, huevo, carne y/o mariscos, que se cocina a alta temperatura en un wok. Esta preparación es muy popular en todo el Perú y se puede encontrar en cualquier restaurante peruano. Nosotros lo hemos preparado con pollo y salchichas, pero igualmente puedes añadir gambas o panceta curada.",
+            "titulo2": "INGREDIENTES del arroz chaufa peruano para 4 personas",
+            "ingredientes":[
+                "2 pechugas de pollo cortadas en dados pequeños",
+                "6 salchichas (mejor si son frescas) cortadas en rodajas o 150 g de panceta curada",
+                "1 cebolla blanca picada",
+                "3 dientes de ajo picados",
+                "1 cucharadita de jengibre molido",
+                "2 cucharadas de salsa de soja",
+                "1 cucharada de aceite vegetal (girasol o un oliva suave)",
+                "2 huevos batidos",
+                "Un trozo de pimiento verde y otro rojo",
+                "Sal y pimienta al gusto",
+                "Cebollino para decorar"
+            ],
+            "titulo3":"ELABORACIÓN del arroz chaufa peruano",
+            "elaboracion":[
+                "Para empezar a preparar el arroz chaufa, calienta el aceite vegetal en un wok a fuego alto. Agrega el pollo y saltea hasta que esté dorado. Agrega las salchichas o. la panceta y sigue salteando por 2 minutos más. Añade la cebolla, el pimiento y el ajo (todo limpio y troceado más bien menudo) y saltea hasta que la cebolla esté transparente.",
+                "Agrega el arroz cocido y revuelve todo un par de minutos junto con la salsa de soja y el jengibre. Revuelve bien para que se impregnen todos los ingredientes.",
+                "Haz un espacio en el centro del wok y agrega los huevos batidos. Revuelve rápidamente para que los huevos se cocinen y después los vas mezclando con el resto de los ingredientes. También puedes cuajar en sartén aparte una tortilla, trocearla menuda y añadirla al arroz en este punto.",
+                "Agrega sal y pimienta al gusto y sigue salteando hasta que el arroz esté caliente y dorado.",
+                "Sirve el arroz chaufa en platos individuales y decora con cebollino picado."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2023/05/arroz-chaufa-peruano-C-1.jpg","https://www.divinacocina.es/wp-content/uploads/2023/05/arroz-chaufa-peruano-v-1.jpg"]
+        },
+        {
+            "titulo":"Arroz con pollo rápido y fácil",
+            "subtitulo": "",
+            "texto":"Esta receta de arroz con pollo es muy rápida de preparar porque usamos pollo deshuesado. Completamos el plato con verduritas frescas.",
+            "titulo2": "INGREDIENTES para 6 personas",
+            "ingredientes":[
+                "1 kg de pollo limpio de pieles y huesos, troceado en dados (puede ser pechuga, contramuslos… a tu gusto)",
+                "2 vasos de arroz (unos 400 g)",
+                "4 dientes de ajo",
+                "1 pimiento rojo",
+                "Una zanahoria",
+                "1 hoja de laurel",
+                "Opcional: Un puñado de guisantes",
+                "Un tomate mediano maduro (o unas cucharadas de salsa de tomate triturado",
+                "Medio vaso (150 ml) de vino blanco seco",
+                "Sal y pimienta",
+                "Perejil picado",
+                "Tomillo o una mezcla de especias para carne",
+                "Aceite de oliva virgen extra"
+            ],
+            "titulo3":"ELABORACIÓN del arroz con pollo",
+            "elaboracion":[
+                "Pelamos los ajos, los machacamos de un golpe y los salteamos en una cazuela al fuego con un fondo de aceite y junto con el pimiento picado menudito. Añadimos la zanahoria limpia y picada y ponemos también el pollo troceado, el tomillo y el laurel",
+                "Hay que ‘marear’ el pollo en la cazuela para que se dore por igual por todas partes, removiendo a menudo. Salpimentamos (si lo prefieres en lugar de sal puedes usar un cubito de caldo).",
+                "Cuando el pollo está bien dorado por igual ponemos el tomate, los guisantes y el vino, añadimos el perejil picado y dejamos que evapore el alcohol.",
+                "Probamos de sal, añadimos el arroz y regulamos el nivel de líquido.",
+                "Ahora tenemos que dejar que se haga nuestro arroz con pollo sin remover mucho. En unos 18 min. cuando el arroz alcance su punto apartamos del fuego y dejamos reposar por 10 min al menos antes de servir caliente."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2015/02/arroz-con-pollo-rapido-facil.jpg",
+            "https://www.divinacocina.es/wp-content/uploads/2015/02/arroz-pollo-facil-rapido-H.jpg"]
+        },
+        {
+            "titulo":"Arroz pilaf con frutos secos",
+            "subtitulo": "la receta del arroz pilaf con frutos secos, una preparación sencilla",
+            "texto":"El pilaf, también conocido como pilav, pilaf, o pilau, es un plato de arroz cocido con especias, vegetales y a menudo carne o mariscos. Es un plato tradicional en muchas culturas culinarias de Asia Central, Oriente Medio, India y el sur de Europa.",
+            "titulo2": "Ingredientes del arroz pilaf con frutos secos para 4 personas",
+            "ingredientes":[
+                "400 g de arroz basmati o arroz de grano largo",
+                "750 ml de caldo de pollo o vegetales",
+                "60 g taza de pasas",
+                "60 g de almendras fritas",
+                "Opcional: piñones, anacardos, orejones picados o cualquier fruto seco a tu gusto",
+                "2 cucharadas de mantequilla",
+                "1 cucharada de aceite de oliva",
+                "Sal al gusto",
+                "Pimienta al gusto",
+                "1 cebolla mediana picada",
+                "2 dientes de ajo picados",
+                "1 cucharadita de comino (opcional)",
+                "1 cucharadita de cúrcuma (opcional)"
+            ],
+            "titulo3":"Elaboración del arroz pilaf con frutos secos",
+            "elaboracion":[
+                "Enjuaga el arroz bajo agua fría hasta que el agua salga clara. Escurre y reserva.",
+                "En una olla grande, calienta el aceite de oliva y la mantequilla a fuego medio. Agrega la cebolla y el ajo, y cocina hasta que estén transparentes.",
+                "Añade el arroz a la olla y sofríe durante unos minutos, revolviendo constantemente.",
+                "Agrega el caldo de pollo o vegetales, las pasas y los frutos secos que hayas elegido, la sal, la pimienta, el comino y la cúrcuma si los estás usando, y revuelve bien.",
+                "Lleva el arroz a ebullición, luego reduce el fuego a bajo, tapa la olla y cocina durante unos 15-20 minutos, o hasta que el arroz esté cocido y el líquido se haya absorbido por completo.",
+                "Una vez cocido, retira la olla del fuego y deja reposar el arroz tapado durante unos 5 minutos antes de servir.",
+                "Espolvorea con cilantro, menta o perejil picado para dar un toque de frescor en el plato."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/05/arroz-pilaf-con-castanas.jpg",
+            "https://www.divinacocina.es/wp-content/uploads/2024/05/arroz-pilaf-con-frutos-secos-2.jpg"]
+        },
+        {
+            "titulo":"Tortitas de arroz y queso rápidas",
+            "subtitulo": "Esta receta de tortitas de arroz y queso rápida se prepara en pocos minutos",
+            "texto":"Nosotros hemos elaborado estas tortitas de arroz y queso con arroz precocido del que viene en vasitos especiales para microondas. Si decides cocer tú el arroz en casa, aquí tienes un curioso",
+            "titulo2": "INGREDIENTES de las tortitas de arroz para 4 tortitas gruesas",
+            "ingredientes":[
+                "1 vasito de arroz especial microondas o 125 g de arroz cocido",
+                "1 huevo",
+                "Una ramita de perejil fresco picado",
+                "30 gramos de queso parmesano en polvo especial pasta o cualquier queso rallado fino que tenga sabor",
+                "Media cebolla picada muy fina",
+                "Opcional: media cucharadita de ajo en polvo",
+                "Sal, un golpe de nuez moscada y pimienta negra molida",
+                "Un par de cucharadas de harina para enharinar las tortitas",
+                "Aceite de oliva"
+            ],
+            "titulo3":"ELABORACIÓN de las Tortitas de arroz y queso",
+            "elaboracion":[
+                "Metemos el vasito de arroz al microondas por un minuto, como indiquen las instrucciones del envase. Lo sacamos y lo ponemos en un bol. Con un tenedor, aireamos el arroz para que se suelte.",
+                "En ese mismo bol ponemos el resto de ingredientes excepto la harina. Mezclamos muy bien y con una cuchara vamos cogiendo porciones iguales para formar las tortitas. Les damos la forma que más nos guste con las manos.",
+                "Las pasamos por la harina y las doramos por los dos lados y por igual en una sartén con un fondo aceite.",
+                "Las tortitas de arroz y queso se sirven al momento, bien calientes, con un ketchup casero o con una salsa de tomate casera. Si quieres hacer un plato más completo, sírvelas como guarnición de un huevo frito o un filete a la plancha.",
+                "Ten en cuenta que al estar hechas con arroz precocido ¡, las tortitas tienden a endurecerse con el paso del tiempo. Si no las consumes todas, tendrças que calentarlas en el microondas a potencia media cuando las vayas a servir para que vuelvan a recuperar el interior cremoso."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2020/04/tortitas-de-arroz-y-qeuso-c2.jpg",
+            "https://www.divinacocina.es/wp-content/uploads/2020/04/tortitas-de-arroz-v2.jpg"]
+        },
+        {
+            "titulo":"Ensaladilla de arroz y aguacate",
+            "subtitulo": "la receta de una ensaladilla de arroz fresca y sencilla",
+            "texto":"La única elaboración de la ensaladilla de arroz es el tiempo de cocción del arroz, y mientras tanto vas integrando y preparando el resto de ingredientes, así que en menos de 30 minutos ya tienes la ensaladilla de arroz lista para servir.",
+            "titulo2": "INGREDIENTES de la ensaladilla de arroz y aguacate para 6 personas",
+            "ingredientes":[
+                "1 vaso (de los de agua) de arroz de grano largo",
+                "6 palitos de surimi",
+                "1 latita pequeña de maíz dulce en grano (unos 80 g)",
+                "1 aguacate que esté enterito",
+                "Opcional: 1 buen trozo de cebolla morada (o cebolleta fresca) y pepino (aportan un punto crujiente y fresco)",
+                "Para aderezar: Mayonesa casera al gusto aderezada con un punto de mostaza"
+            ],
+            "titulo3":"ELABORACIÓN  de la Ensaladilla de Arroz",
+            "elaboracion":[
+                "Lo primero que tenemos que hacer es cocer el arroz en agua hirviendo con sal, procurando que quede más bien enterito. Lo tendremos en unos 15 minutos aproximadamente desde que lo pongas en el agua hirviendo.",
+                "Mientras se cuece el arroz, vamos poniendo en un bol de servicio el resto de ingredientes. Ponemos el maíz lavado y bien escurrido, el aguacate 8es importante que esté enterito para que no se nos deshaga el mezclar la ensalada), y el surimi picados, el pepino con piel cortado en dados muy pequeñitos, la cebolla morada en dados pequeños.",
+                "Cuando el arroz esté listo hay que lavarlo bajo el grifo hasta que enfríe en un colador, y escurrirlo muy bien para que la ensaladilla no resulte aguada.",
+                "Después mezclamos todos los ingredientes y vamos añadiendo mayonesa poco a poco hasta que tenga un punto que nos guste. La mayonesa la enriquecemos con mostaza al gusto.",
+                "Si todos los ingredientes estaban fríos, ya la podrás servir. En caso contrario, conserva en frío hasta el momento de servirla."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/ensaladilla-de-arroz-bol.jpg",
+            "https://www.divinacocina.es/wp-content/uploads/2022/06/ensaladilla-arroz-v.jpg"]
+        }
+    ],
+    "Pastas": [
+        {
+            "titulo":"Fideos Yakisoba salteados",
+            "subtitulo": "la receta de los fideos yakisoba salteados con verduras y carnes o mariscos",
+            "texto":"El Yakisoba es un plato japonés popular que consiste en fideos de trigo fritos con una variedad de verduras y carne, generalmente se sazona con una salsa agridulce. ",
+            "titulo2": "Ingredientes de los fideos yakisoba salteados para 4 personas",
+            "ingredientes":[
+                "250 g de fideos Yakisoba (o cualquier otro tipo de fideos chinos de trigo, más gruesos que los de arroz)",
+                "200 g de ternera en tiras finas (puedes sustituir por pollo o lomo de cerdo, o unas colas de gambas, langostinos o gambones)",
+                "1 cebolla mediana, cortada en juliana",
+                "1 zanahoria grande, cortada en tiras finas",
+                "1 pimiento rojo, cortado en tiras finas (opcional)",
+                "2-3 hojas de col china (opcional), cortadas en trozos",
+                "2 dientes de ajo, picados",
+                "2 cucharadas de aceite vegetal",
+                "Salsa Yakisoba (se puede encontrar en tiendas asiáticas o puedes hacerla casera, ver más abajo)",
+                "Opcional: cebolleta fresca picada o cebollino verde y si quieres sésamo tostado para decorar"
+            ],
+            "titulo3":"Elaboración de los fideos yakisoba salteados",
+            "elaboracion":[
+                "Cocina los fideos Yakisoba de acuerdo con las instrucciones del paquete. Escúrrelos y enjuágalos con agua fría para detener la cocción. Reserva.",
+                "En un tazón pequeño, mezcla todos los ingredientes para hacer la salsa Yakisoba. Reserva.",
+                "Calienta una sartén grande o un wok a fuego medio-alto y añade un chorrito de aceite vegetal.",
+                "Agrega la carne de ternera en tiras a la sartén y cocínala hasta que esté dorada. Retira la carne de la sartén y reserva.",
+                "En la misma sartén (añade otra cucharada de aceite si es necesario) agrega el ajo picado. Cocina por unos 30 segundos hasta que desprenda su aroma.",
+                "Agrega la cebolla, la zanahoria y el pimiento rojo a la sartén. Saltea durante unos 3-4 minutos hasta que las verduras estén tiernas pero al dente.",
+                "Agrega la col china y cocina por un par de minutos más. La col se pone al final porque tiene menos cocción que el resto de verduras y no queremos que quede demasiado blanda.",
+                "Vuelve a poner la carne de ternera en la sartén junto con los fideos Yakisoba ya cocidos y muy bien escurridos",
+                "Vierte la salsa Yakisoba sobre los ingredientes en la sartén y revuelve todo bien para que los ingredientes se impregnen por igual con la salsa.",
+                "Cocina por 2-3 minutos más, revolviendo ocasionalmente, hasta que todo esté bien caliente.",
+                "Sirve los fideos yakisoba calientes y decora con cebolleta fresca picada o cebollino verde y sésamo tostado si quieres dar un punto crujiente."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/04/fideos-yakisoba-salteados-h-.jpg",
+            "https://www.divinacocina.es/wp-content/uploads/2024/04/fideos-yakisoba-salteados-v.jpg"]
+        },
+        {
+            "titulo":"Macarrones con pisto de verduras",
+            "subtitulo": "Estos macarrones con pisto de verduras combinan lo mejor de la huerta con una pasta llena de energía.",
+            "texto":"Esta es una opción perfecta para aprovechar un poco de pisto que te haya sobrado, o cualquier tipo de sofrito. Además puedes preparar estos macarrones con pisto con cualquier otra pasta que te guste.",
+            "titulo2": "INGREDIENTES para 4-5 personas",
+            "ingredientes":[
+                "400 g de macarrones o cualquier pasta corta que te guste",
+                "Media cebolla",
+                "2 dientes de ajo",
+                "1 pimiento verde o rojo",
+                "Medio calabacín (o 1 calabacín pequeño)",
+                "Media berenjena ( o 1 berenjena pequeña)",
+                "1 tomate grande rojo y maduro (o 300 g de salsa de tomate triturado)",
+                "Unas hojas de albahaca fresca",
+                "Aceite de oliva virgen extra, sal y pimienta",
+                "Una pizca de azúcar",
+                "Opcional: queso rallado para servir"
+            ],
+            "titulo3":"ELABORACIÓN de los macarrones con pisto",
+            "elaboracion":[
+                "Empezamos preparando nuestro pisto de verduras al estilo tradicional. Para ello rehogamos en un fondo de aceite la cebolla picada con el ajo laminado y el pimiento. Cuando estén a medio hacer añadimos el calabacín y la berenjena limpios y picados en daditos y dejamos que saltee todo junto hasta que esté tierno pero entero.",
+                "Añadimos entonces el tomate y unas hojitas de albahaca picada, ponemos sal y pimienta. Hay que añadir azúcar si el tomate es muy ácido. Dejamos que reduzca y espese un poco la salsa al fuego. Aquí puedes ver una receta completa de pisto de verduras.",
+                "Mientras tanto hemos ido cociendo la pasta siguiendo las instrucciones del envase. Debe quedar al dente. Aquí puedes ver nuestros consejos para cocer la pasta correctamente.",
+                "Una vez cocida la pasta la escurrimos bien, rociamos con un poquito de aceite de oliva para que se suelte, y la añadimos a nuestra cazuela de pisto mezclando bien.",
+                "Servimos al momento los macarrones con pisto, con un poco de queso rallado si te gusta."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2017/12/MACARRONES-CON-PISTO-FOTO.jpg",
+            "https://www.divinacocina.es/wp-content/uploads/macarrones-con-pisto.jpg"]
+        },
+        {
+            "titulo":"Fideos a la marinera",
+            "subtitulo": "",
+            "texto":"Este receta de fideos al marinera es un guiso clásico con mucho sabor a mar, ingredientes sencillos y una elaboración muy fácil. ",
+            "titulo2": "INGREDIENTES para 6 personas",
+            "ingredientes":[
+                "400 g de sepia limpia, o cualquier pescado blanco de carne firme troceado y sin espinas. Una cabeza de rape hará un caldo estupendo y podemos usar la carne desmenuzada.",
+                "Opcional: 200 g de colas de gambas arroceras o colas de langostinos pelados",
+                "400 g de almejas o mejillones",
+                "1 tomate grande maduro limpio de semilla y piel",
+                "1 pimiento rojo o verde",
+                "3 dientes de ajo",
+                "100 g de guisantes muy tiernos (opcional)",
+                "1 manojo de perejil",
+                "media cebolla",
+                "Opcional: Azafrán en polvo o colorante alimentario",
+                "1 hoja de laurel",
+                "300 g de fideos gruesos o huecos, a tu elección",
+                "Caldo de pescado casero. Podemos hacer el fumet de pescado con las cáscaras de las gambas, cabezas y espinas del pescado, el líquido de cocer los mejillones… o usar caldo envasado o de pastilla) Aquí puedes ver cómo hacer un fumet de pescado."
+            ],
+            "titulo3":"ELABORACIÓN de los fideos a la marinera",
+            "elaboracion":[
+                "Abrimos los mejillones o las almejas al vapor y reservamos el caldo colado. Eliminamos una de las conchas o las dos, como prefieras.",
+                "Con unas espinas o cabezas de pescado preparamos un caldo casero. Usamos también el caldo de las almejas o mejillones. Si lo prefieres puedes usar una pastilla o un brik de caldo de pescado.",
+                "Picamos bien todas las verduras limpias para hacer un sofrito.",
+                "Ponemos una cazuela al fuego con aceite, le añadimos el laurel y rehogamos la cebolla, pimiento y ajo picados.  El picado de verduras se va haciendo a fuego muy lento.",
+                "Mientras tanto troceamos menudita la sepia y la añadimos al sofrito ya pochado. Salteamos bien y dejamos que se cocine unos minutos. Añadimos el tomate y dejamos reducir y oscurecer.",
+                "Si usas pescado en lugar de sepia, no es necesario este paso, lo puedes añadir al final, troceado con las gambas y almejas.",
+                "A continuación ponemos el caldo de pescado y los fideos con los guisantes tiernos, una cucharadita de colorante alimentario o un poco de azafrán, una pizca de pimienta y sal.",
+                "A falta de un par de minutos de cocción de los fideos incorporamos las almejas o mejillones  y las gambas peladas con el perejil picado. Cuando todo esté listo retiramos del fuego.",
+                "Dejamos los fideos a la marinera reposar 5 minutos fuera del fuego antes de servir bien caliente."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2015/05/fideos-marinera-4.jpg",
+            "https://www.divinacocina.es/wp-content/uploads/fideos-a-la-marinera-cazuela.jpg"]
+        },
+        {
+            "titulo":"Macarrones con brócoli y nueces",
+            "subtitulo": "Macarrones con Brócoli y Nueces y verás como un sencillo plato de pasta se pueden convertir en una fiesta a la mesa.",
+            "texto":"Hemos utilizado brócoli en arbolitos, pero si quieres puedes sustituirlo por bimi y seguir la misma elaboración del plato.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "350 g de macarrones o plumas",
+                "1 ramillete de brócoli mediano",
+                "2 dientes de ajo",
+                "50 gr de mantequilla",
+                "300 ml de nata líquida (crema de leche) ligera de cocina",
+                "120 gr de queso crema de untar",
+                "1 cucharadita de mostaza (mejor mostaza antigua)",
+                "Sal, pimienta y nuez moscada",
+                "100 g de nueces picadas",
+                "Queso rallado en polvo para servir"
+            ],
+            "titulo3":"ELABORACIÓN de los Macarrones con Brócoli y Nueces",
+            "elaboracion":[
+                "Lavamos el brócoli y lo cortamos en arbolitos pequeños, como de un bocado.",
+                "Hervimos la pasta según las instrucciones del envase, en agua abundante, y siempre procurando que quede al dente. Cuando queden 3 minutos para el final de la cocción, y con el agua en ebullición fuerte, añadimos los arbolitos de brócoli a la cazuela.",
+                "Mientras se hierve la pasta con el brócoli pelamos los ajos, los laminamos y los salteamos en la mantequilla al fuego. Añadimos la nata, la mostaza y el queso crema y mezclamos bien. Tiene que quedar una salsa ligada y bien integrada, sin grumos. La salpimentamos al gusto y añadimos una pizca de nuez moscada.",
+                "Una vez hervida la pasta con el brócoli, lo escurrimos todo junto eliminando al máximo toda el agua que tenga.",
+                "Añadimos a la cazuela con la salsa de queso. Añadimos también las nueces picadas y mezclamos muy bien el conjunto al fuego durante un par de minutos.",
+                "Servimos los macarrones con brócoli y nueces al momento, espolvoreado con un poco de queso rallado en polvo."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2019/10/macarrones-brocoli-nueces-c8.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2019/10/macarrones-brocoli-nueces-C9.jpg"]
+        },
+        {
+            "titulo":"Pasta integral con tomate y espárragos",
+            "subtitulo": "",
+            "texto":"pasta integral con tomate y espárragos se puede preparar con cualquier variedad de pasta corta o larga a tu elección",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "400 gramos de macarrón integral (puedes usar otra pasta a tu gusto, espagueti, tallarín…)",
+                "250 gramos de espárragos verdes",
+                "250 gramos de tomate Cherry",
+                "150 ml de leche (o bebida vegetal de avena o almendras, pero siempre sin azúcares)",
+                "1 diente de ajo",
+                "35 ml de aceite de oliva virgen extra",
+                "Sal, pimienta y orégano al gusto.",
+                "100 g de queso Feta o queso fresco "
+            ],
+            "titulo3":"ELABORACIÓN de la pasta integral con tomate y espárragos.",
+            "elaboracion":[
+                "Ponemos la pasta en agua hirviendo y la cocemos el tiempo que indique el envase. Hay que intentar que la pasta quede al dente.",
+                "Mientras se cuece la pasta, en una sartén ponemos a fuego medio el ajo picado, espárragos y los tomates Cherry enteros o por mitades.",
+                "Después añadimos leche o bebida de almendra, ponemos una pizca de sal y dejamos unos minutos.",
+                "Cuando la salsa ya tenga la consistencia ligeramente espesa añadimos la pasta ya cocida y escurrida y mezclamos.",
+                "Añadimos pimienta y orégano al gusto.",
+                "Emplatamos la pasta integral con tomate y espárragos y ponemos por encima el queso Feta desmenuzado antes de servir con la pasta bien caliente"
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2023/10/pasta-integral-con-tomate-y-esparragos-h.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2023/10/pasta-integral-con-tomate-y-esparragos-c.jpg"]
+        }
+    ],
+    "Ensaladas": [
+        {
+            "titulo":"Ensalada japonesa de pepino (Sunomomo)",
+            "subtitulo": "Esta receta de ensalada japonesa de pepino o sunomono se prepara en pocos minutos.",
+            "texto":"Lo ideal es preparar esta ensalada japonesa de pepino con pepinos japoneses, también conocidos como kyuri. Podrás encontrarlos en cualquier tienda de alimentación asiática, pero igualmente puedes usar cualquier tipo de pepino. Procura que sean delgados y no tengan muchas pipas.",
+            "titulo2": "INGREDIENTES para 2 personas",
+            "ingredientes":[
+                "2 pepinos japoneses (o 1 pepino holandés o inglés)",
+                "Vinagre de arroz al gusto (puedes sustituir por cualquier vinagre de vino blanco o de manzana que sea suave)",
+                "2 cucharadas rasas de azúcar",
+                "1 cucharadita de sal fina",
+                "Opcional: Cebolleta, cebolla morada o cebollino frescos",
+                "Opcional: Una guindilla o chile en rodajas, o un poco de pimiento rojo para dar color y textura",
+                "Opcional: 1 cucharada de salsa de soja",
+                "1 cucharada de semillas de sésamo (quedan muy bien el sésamo negro tostado)",
+                "1 cucharadita de alga wakame (opcional)"
+            ],
+            "titulo3":"Elaboración de la ensalada japonesa de pepino o sunomomo",
+            "elaboracion":[
+                "Preparación de los pepinos: Si estás utilizando pepinos japoneses, pela alternadamente tiras de la piel con un pelapatatas para darle un aspecto rayado. Corta los pepinos en rodajas finas (lo mejor es usar una mandolina).",
+                "Preparación del aderezo: En un tazón pequeño, mezcla el vinagre de arroz, el azúcar, la soja y la sal hasta que el azúcar y la sal se disuelvan por completo. Si usas soja, controla la cantidad de sal.",
+                "Marinado: Coloca las rodajas de pepino en un tazón y vierte el aderezo sobre ellos. Mezcla bien para asegurarte de que todas las rodajas de pepino estén cubiertas con el aderezo.",
+                "Refrigeración: Cubre el tazón con papel film o una tapa y deja marinar en el refrigerador durante al menos 30 minutos para que los sabores se mezclen y los pepinos se marinen ligeramente.",
+                "Cómo servir la ensalada japonesa de pepinos o sunomomo: Sirve el sunomono frío, espolvoreado con semillas de sésamo tostadas y/o algas wakame si lo deseas. Añade si quieres un poco de cebollino o cebolla morada picada y unas rodajitas de guindilla o de pimiento rojo picado. Puedes servir la ensalada japonesa de pepino como guarnición fría o como ensalada por sí sola."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/04/sunomomo-ensalada-japonesa-de-pepino-detalle.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2024/04/sunamono-ensalada-japonesa-de-pepino-h2.jpg"]
+        },
+        {
+            "titulo":"Ensaladilla de coliflor",
+            "subtitulo": "La ensaladilla de coliflor es un plato sencillo y fresco que se prepara con ingredientes caseros",
+            "texto":"Te va a encantar si eres amante de la verdura. La ensaladilla de coliflor tiene menos calorías que una ensaladilla tradicional, con mucho sabor, y es un plato que siempre sorprende en reuniones de invitados.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "1 coliflor pequeña",
+                "2 latitas de atún en aceite",
+                "Un puñado grande de guisantes (pueden ser congelados)",
+                "2 huevos duros",
+                "1 buen tazón de mayonesa",
+                "Opcional: Podemos dar un toque de color con zanahoria cocida o con un pimiento morrón",
+                "Cebolleta fresca"
+            ],
+            "titulo3":"ELABORACIÓN de la ensaladilla de coliflor",
+            "elaboracion":[
+                "Cocemos la coliflor partida en arbolitos y la dejamos que quede enterita. Podemos cocer al mismo tiempo la zanahoria si vas a ausarla. Escurrimos bien durante un rato y si es necesario secamos con papel de cocina. Esto es importante para que la ensaladilla no quede aguada. Incluso la puedes cocer de un día para que esté bien seca.",
+                "Una forma de evitar que la coliflor retenga agua es hacerla al vapor en vaporera al fuego o al microondas, de esta forma queda bastante más seca.",
+                "La coliflor hay que trocearla o mejor desmenuzarla a mano a tu gusto en arbolitos pequeños (mira la foto) porque así toman mejor el aderezo.",
+                "Desmenuzamos también el atún con su aceite y lo añadimos a la coliflor.",
+                "Cocemos los guisantes (puedes usarlos de lata) y los añadimos también junto con la cebolleta picada.",
+                "Incorporamos el huevo duro picado o lo usamos para decorar una vez terminada.",
+                "Mezclamos todo junto con la mayonesa con cuidado para que la coliflor no se desmorone y dejamos enfriar hasta el momento de servir.",
+                "Se sirve fría. Puedes decorar la ensaladilla de coliflor con tomatitos, tiras de pimiento morrón, aceitunas picadas… a tu gusto."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/02/ensaladilla-de-coliflor-c.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/ensaladilla-de-coliflor-plato1.jpg"]
+        },
+        {
+            "titulo":"Ensalada de frutas con vinagreta de miel y limón",
+            "subtitulo": "",
+            "texto":"Esta ensalada de frutas con vinagreta de miel y limón se combina con nueces y espinacas, es un plato muy completo con un aderezo especial que le otorga aroma y sabor.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "240-250 gramos de espinacas baby",
+                "2 kiwis",
+                "1 o 2 mandarinas (depende del tamaño)",
+                "100 gramos de nueces",
+                "Un puñado de frambuesas",
+                "60-65 mililitros de Aceite de oliva virgen extra",
+                "30-35 mililitros de zumo de limón (3 cucharadas soperas)",
+                "2 dientes de ajo, picados",
+                "15-20 gramos de miel",
+                "Sal y pimienta"
+            ],
+            "titulo3":"ELABORACIÓN de la ensaladilla de coliflor",
+            "elaboracion":[
+                "En un tazón grande, colocamos una base de espinacas frescas y ponemos por encima los kiwis pelados, los gajos de mandarina, las frambuesas y las nueces.",
+                "En un recipiente aparte, preparamos el aderezo mezclando el aceite de oliva, el zumo de limón, la miel, la sal y la pimienta. Batimos bien la mezcla.",
+               "Vertemos el aderezo sobre la ensalada de frutas y mezclamos suavemente para asegurarnos de que todos los ingredientes estén cubiertos con el aderezo.",
+               "Servimos la ensalada de frutas inmediatamente, porque el aderezo puede deteriorar las hojas de espinaca si la preparas con mucha antelación.",
+               "Esta ensalada de frutas es una opción colorida, llena de sabor y nutrientes que será un éxito seguro para los amantes de las combinaciones agridulces."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/02/ensalada-de-frutas-con-espinacas-y-nueces-v2.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2024/02/ensalada-de-frutas-con-espinacas-y-nueces-c.jpg"]
+        },
+        {
+            "titulo":"Ensalada de salmón ahumado",
+            "subtitulo": "",
+            "texto":"Esta ensalada de salmón ahumado es un plato muy festivo y especial que se prepara con ingredientes sencillos. Te damos varias ideas para personalizarla siempre a tu gusto.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "1 bolsa de brotes, lechugas o canónigos",
+                "200 g de salmón ahumado",
+                "Un mango pequeño",
+                "Un aguacate de buen tamaño en su punto de madurez",
+                "8 tomatitos cherry",
+                "Opcional: zanahoria rallada para dar un toque crujiente",
+                "4 cucharadas de aceite de oliva virgen extra Almazara del Olivar",
+                "2 cucharadas de vinagre de manzana Aliña tu Día",
+                "1 cucharadita de mostaza",
+                "1 cucharadita de miel de flores",
+                "Tomates cereza",
+                "Sal y pimienta"
+            ],
+            "titulo3":"ELABORACIÓN de la ensalada de salmón ahumado con aguacate y mango",
+            "elaboracion":[
+                "Para mejorar la presentación del plato, lo mejor es montarlo desde el principio en raciones individuales.",
+                "Como base utilizaremos canónigos frescos. Sobre los canónigos añadiremos taquitos de mango y aguacate cortados de forma regular y del mismo tamaño. Ponemos también las tiras de zanahoria y los tomates cherry cortados en cuartos o por la mitad.",
+               "Coronamos el plato con el salmón ahumado colocado en el centro como si fuera una flor hecha con las láminas de salmón.",
+               "Para hacer la vinagreta casera de miel y mostaza mezclamos muy bien todos los ingredientes en un bote de cristal o en un bol.",
+               "Esta ensalada de salmón ahumado se salsea al momento de servir de servir para que las lechugas no se deterioren, y se acompaña de pan negro y mantequilla. Esta forma de servirla, con pan alemán de centeno y mantequilla salada, la convierten en una buena opción para un plato único sano y ligero."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2014/05/ensalada-de-salmon-ahumado-con-aguacate-y-mango-c.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2014/05/ensalada-de-salmon-ahumado-y-aguacate-con-mango-c2.jpg"]
+        },
+        {
+            "titulo":"Ensaladilla rusa",
+            "subtitulo": "Aquí tienes muchas ideas y trucos para hacer una ensaladilla rusa siempre a tu gusto.",
+            "texto":"Hay tantas recetas de ensaladilla risa como cocineros, y su sabor final dependerá de muchos factores, la mayonesa, la variedad y cantidad de cada ingredientes, que siempre va a gusto del consumidor… Pero es verdad que también hay unas reglas básicas para que la ensaladilla rusa triunfe en tu mesa, y es lo que intentaremos contarte aquí. También te damos algunos trucos y consejos para personalizar tu ensaladilla rusa.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "500 g patatas medianitas y regulares para cocer",
+                "1 zanahoria",
+                "Una latita de guisantes (o 100 g de guisantes congelados)",
+                "2 huevos duros",
+                "Opcional: Una latita de pimientos morrones",
+                "1 ó 2 latitas de atún en aceite",
+                "Opcional: Media lata de aceitunas deshuesadas",
+                "Opcional: Un casco de cebolla o cebolleta",
+                "1 bol de mayonesa (aquí puedes ver la receta de la mayonesa casera)"
+            ],
+            "titulo3":"ELABORACIÓN de la Ensaladilla Rusa",
+            "elaboracion":[
+               "Cocemos las patatas y zanahoria limpias pero con su piel en agua con sal. Las pelamos y cortamos en daditos (si te gusta que queden enteras, hazlo cuando estén frías, se desmoronan menos).",
+               "Escurrimos los pimientos y los picamos. Cocemos los guisantes en agua con sal, los escurrimos y mezclamos todo con las patatas.",
+               "Picamos menudo el huevo duro, desmenuzamos el atún lo incorporamos también. Salamos un poco la mezcla.",
+               "Añadimos la mayonesa y mezclamos bien. Si queda demasiado espesa, aligeramos con un chorrito de leche.",
+               "Decoramos la ensaladilla rusa con unas tiras de pimiento morrón y unas aceitunas sin hueso picadas, o con una lechuga picada en juliana muy fina, a tu gusto."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2023/06/ensaladilla-rusa-C.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/ensaladilla-rusa-bandeja.jpg"]
+        }
+    ],
+    "Sopas": [
+        {
+            "titulo":"Salmorejo de espárragos blancos",
+            "subtitulo": "Esta sencilla receta de salmorejo de espárragos blancos se puede preparar con espárragos en conserva",
+            "texto":"El plato es una crema fría que puedes servir como entrante. No te pases en las raciones porque el pan hace que sea un plato consistente. Sirve en pequeños cuencos.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "2 latas o botes medianos de espárragos envasado, en total unos 400 g de peso escurrido (no hace falta que sean de los gruesos, valen los tallos o troceados)",
+                "1 pieza mediana (150 g) de pan blanco y de miga firme (también puedes usar solo la miga)",
+                "1 ó 2 dientes de ajo",
+                "Un chorrito de vinagre (el mejor es el de manzana, pero puedes usar un vinagre suave de vino blanco)",
+                "Medio vasito de aceite de oliva virgen extra",
+                "Sal y pimienta",
+                "Para acompañar: 1 huevo duro, ventresca de atún, melva o bonito del norte, jamón picadito"
+            ],
+            "titulo3":"ELABORACIÓN del salmorejo de espárragos blancos",
+            "elaboracion":[
+                "Si los espárragos son en conserva, los escurrimos bien y reservamos el líquido de la conasrva para remojar la miga de pan en ese líquido. Eso aportará más sabor al plato.",
+                "Si los espárragos son frescos los lavamos bien o los vamos troceando con la mano desechando los tallos más duros. Se hierven en una cazuela cubiertos con agua y un poco de sal hasta que enternezcan y guardamos el agua de la cocción.",
+                "Ponemos en el vaso de la batidora el ajo pelado y sin el germen central y la pieza de pan remojada en el líquido de la conserva (o el caldo de cocción de los espárragos, en caso de que sean frescos).",
+                "Añadimos los espárragos ya troceados (si son de lata puedes dejarlos enteros), un chorrito de vinagre y un poco de sal y pimienta.",
+                "Batimos bien y vamos añadiendo el aceite en un hilo mientras batimos para quer la mezcla emulsione y quede cremosa. Si quieres añade más caldo según la textura que te guste, rectificando de sal y vinagre después de mezclarlo todo.",
+                "Prueba la textura y pasa por el pasapurés o por un colador si crees necesario eliminar los posibles ‘hilos’ que a veces tienen los espárragos. Deja enfriar en la nevera hasta el momento de servir.",
+                "Servimos el salmorejo de espárragos muy frío rociado con unas gotas de aceite y acompañado de jamón curado picadito, huevo duro picado o unos lomos de melva o atún."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2016/07/salmorejo-de-esparragos-v-1.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2016/07/salmorejo-de-esparragos-c-1.jpg"]
+        },
+        {
+            "titulo":"Porrusalda con bacalao",
+            "subtitulo": "",
+            "texto":"Esta receta de porrusalda con bacalao es una de las formas más clásicas de presentar este plato sencillo y tradicional. El bacalao se puede sustituir también por merluza siguiendo la misma receta.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "200 g de migas de bacalao desalado y al punto de sal",
+                "1 patata mediana",
+                "3 puerros (según tamaño)",
+                "1 zanahoria pequeña",
+                "Un chorretón de aceite",
+                "1 vaso de caldo de pescado (puede ser de pastilla)"
+            ],
+            "titulo3":"ELABORACIÓN de la porrusalda de bacalao",
+            "elaboracion":[
+                "Antes de nada tenemos que asegurarnos de que el punto de sal del bacalao es el correcto. Si compras ya el bacalao desalado y al punto de sal no tendrás problema, pero en caso de que tengas bacalao salado, aquí tienes nuestros consejos para desalar bien el bacalao. ",
+                "Para empezar vamos a lavar muy bien toda la verdura. Pelamos las patatas y las cortamos en cascos, en rodajas o medias rodajas, según tamaño y al gusto de cada cual. Cortamos las zanahorias peladas y lo blanco de los puerros en rodajas. Picamos la cebolla en una juliana gruesa.",
+                "Calentamos un fondo de aceite de oliva en una cazuela y rehogamos la cebolla con una pizca de sal hasta que esté transparente.",
+                "Incorporamos el puerro y rehogamos también un par de minutos. Después ya podemos incorporar las zanahorias y las patatas. Cubrimos con el caldo y reservamos un poco por si tenemos que equilibrar después el nivel de líquido. Cocinamos hasta que las patatas y zanahorias estén tiernas, entre 20 y 25 minutos.",
+                "Añadimos el bacalao desalado y troceado en pedazos regulares y no mayores que un bocado. La porrusalda es un plato de cuchara y no debe haber grandes piezas de pescado ni verdura.",
+                "Pasados un par de minutos ya tenemos listo nuestra porrusalda con bacalao. Se sirve en plato hondo espolvoreado, si se quiere, con un poco de perejil picado."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2022/08/PORRUSALDA-CON-BACALAO-h3.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2022/08/porrusalda-con-bacalao-v1.jpg"]
+        },
+        {
+            "titulo":"Receta de caldo gallego con ingredientes sencillos",
+            "subtitulo": "Aquí tienes la receta tradicional para elaborar un caldo gallego ",
+            "texto":"El caldo gallego es un plato tradicional de la cocina gallega, conocido por su sabor robusto y reconfortante, perfecto para los días fríos. Se prepara principalmente con grelos (brotes tiernos del nabo), alubias (frijoles), patatas y carne de cerdo, aunque puede variar según la región o las costumbres familiares.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "300 g de alubias blancas (preferiblemente secas, remojadas desde la noche anterior)",
+                "2 manojos de grelos (puedes sustituirlos por coles rizadas, por hojas de acelgas o por kale)",
+                "2 patatas medianas, peladas y cortadas en trozos",
+                "1 trozo de unto (grasa de cerdo curada), aproximadamente de 50 g. Fuera de Galicia es difícil de encontrar, puedes sustituir por manteca blanca de cerdo, aunque perderás sabor.",
+                "200 g de lacón (puede ser fresco o curado; si es curado, debe desalarse previamente)",
+                "150 g de chorizo gallego",
+                "150 g de panceta o tocino de papada fresco",
+                "Sal al gusto" 
+            ],
+            "titulo3":"Elaboración del caldo gallego",
+            "elaboracion":[
+                "Preparar las alubias: Si utilizas alubias secas, recuerda remojarlas desde la noche anterior. Escúrrelas y colócalas en una olla grande con agua fría suficiente para cubrirlas. Lleva a ebullición y cocina hasta que estén tiernas pero enteras, con un punto crujiente en el interior. Después, escurre y reserva.",
+                "Aunque no es lo más ortodoxo, también puedes usar alubias cocidas en conserva y te ahorras todo este proceso.",
+                "Cocinar las carnes: En una olla grande, coloca el lacón, el chorizo, la panceta y el unto. Cubre con agua fría y lleva a ebullición. Reduce el fuego y deja cocinar a fuego lento durante aproximadamente 1 hora, o hasta que la carne esté tierna. Si el lacón era curado y lo has desalado previamente, ajusta el tiempo de cocción según sea necesario.",
+                "Agregar las alubias: Añade las alubias previamente cocidas a la olla con las carnes. Continúa cocinando a fuego lento. Las alubias van a seguir cocinándose unos minutos, por eso es importante que estén algo ‘enteritas’. Si usas alubias en conserva añádelas al final, a media coccción de las patatas y los grelos.",
+                "Preparar los grelos y las patatas: Mientras tanto, limpia los grelos, retirando los tallos más duros y las hojas dañadas. Córtalos en trozos grandes. Pela las patatas y córtalas en trozos.",
+                "Agregar grelos y patatas a la olla: Cuando las carnes estén casi tiernas, añade los grelos y las patatas a la olla. Si es necesario, agrega más agua para cubrir los ingredientes. Cocina a fuego lento hasta que las patatas estén tiernas y los grelos cocidos, aproximadamente 20 minutos.",
+                "Servir: Una vez que todo esté cocido, prueba y ajusta la sazón con sal al gusto. Sirve caliente, asegurándote de que en cada plato haya un poco de todos los ingredientes (las carnes y el chorizo se trocean para servir).",
+                "Este plato se puede servir recién hecho, pero como muchos guisos, se puede saborear aún mejor al día siguiente cuando los sabores se han asentado y mezclado."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/02/caldo-gallego-c.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2024/02/caldo-gallego-v.jpg"]
+        },
+        {
+            "titulo":"Sopas mallorquinas de pan y verduras",
+            "subtitulo": "Estas sopas mallorquinas se disfrutan todo el año porque se preparan en cada estación con las mejores verduras de temporada.",
+            "texto":"La mallorquina es una sopa consistente, con una riqueza de sabor y de ingredientes que la convierten en una delicia muy especial a pesar de su aparente sencillez.",
+            "titulo2": "INGREDIENTES para 2 personas",
+            "ingredientes":[
+                "250 g de lomo de cerdo en tiras o dados muy menuditos",
+                "1 cebolla pequeña",
+                "3 dientes de ajo",
+                "1 cucharadita de pimentón dulce",
+                "un cuarto de col blanca",
+                "4 cucharadas de tomate triturado",
+                "1 pimiento verde o rojo",
+                "150 g de setas o champiñones",
+                "150 g de cuartos de alcachofa",
+                "200 g de pan payés asentado",
+                "2 cucharadas de sobrasada mallorquina",
+                "aceite de oliva virgen extra",
+                "sal y pimienta",
+                "perejil picado"
+            ],
+            "titulo3":"ELABORACIÓN de las sopas mallorquinas",
+            "elaboracion":[
+                "Pon en una cazuela ancha y honda un fondo de aceite. Rehoga la cebolla y el pimiento cortados en juliana con los ajos laminados. Cuando estén bien pochados, añade el lomo y lo «mareamos» unos minutos en el sofrito para que se cocine.",
+                "Cuando la carne esté dorada, agrega el pimentón, da unas vueltas e incorpora el tomate triturado. Deja reducir un par de minutos",
+                "Ya puedes añadir el resto de las verduras, col, alcachofas y champiñones, cortados menudos para que sea fácil comerlos con cuchara. Baja el fuego para que se rehogue todo junto unos minutos hasta que la verdura reduzca su volumen (sobre todo la col).",
+                "Añade el caldo y deja cocer a fuego medio hasta que la verdura enternezca, pero sin que se deshaga.",
+                "En una cazuela de servicio dispón en el fondo las rebanadas de pan bien secas y asentadas. Reparte por encima la sobrasada desmenuzada y después vas vertiendo el caldo de la sopa para que se empape el pan.",
+                "Por último, pon las verduras, que es lo que se verá en la presentación a la mesa. Las verduras no deben estar cubiertas de caldo, sino secas en la superficie.",
+                "Para servir cada plato  de sopas mallorquinas, sácalo de abajo a arriba, con el pan y el caldo. Rocía con un hilo de aceite de oliva antes de comer la sopa."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/01/sopas-mallorquinas-v.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2024/01/sopas-mallorquinas-c.jpg"]
+        },
+        {
+            "titulo":"Sopa de pescado fácil",
+            "subtitulo": "Aquí tienes una receta de sopa de pescado fácil que puedes preparar en casa con ingredientes sencillos y que siempre gusta a todos.",
+            "texto":"Esta es una receta casera y sencilla, con pescados que pueden ser congelados, para tu día a día, pero el resultado te sorprenderá. La base de esta sopa de pescado fácil y rápida es un buen fumet de pescado",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "1/2 kg. pescado blanco (rape, merluza…) que puede ser congelado",
+                "1/4 kg. de gambas peladas",
+                "1/2 cebolla",
+                "2 dientes de ajo",
+                "1 tomate",
+                "1 pimiento rojo",
+                "Perejil y ajo picados (3 dientes)",
+                "2 puñados de fideos o arroz",
+                "Una hoja de laurel",
+                "Una cucharadita de pimentón y una pizca de comino"
+            ],
+            "titulo3":"Elaboración de la ensalada japonesa de pepino o sunomomo",
+            "elaboracion":[
+                "Para empezar cocemos el pescado en algo más de 1 l. de agua con sal o una pastilla de caldo de pescado, el laurel y unas gotas de limón, lo desmenuzamos y colamos el caldo. No hay que pasarse con la cocción del pescado, unos minutos bastarán.",
+                "Rehogamos en aceite la cebolla picada con el pimiento, el ajo y el tomate pelado, despepitado y picado.",
+                "A medio hacer el sofrito añadimos el pimentón y el comino. Cubrimos con el caldo y llevamos a ebullición. En este punto, si lo preferimos, podemos triturarlo todo con la batidora.",
+                "Incorporamos los fideos o arroz. Preparamos un majado de ajo y perejil. Cuando queden un par de minutos para que estén al punto los fideos (o arroz) incorporamos el majado y ponemos las gambas crudas para que hierva todo junto hasta apartar.",
+                "Al apartar añadimos el pescado cocido y desmenuzado grueso y tapamos la cazuela. No debe quedar demasiado espeso, añadimos agua si es necesario y rectificamos de sal."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2019/07/sopa-de-pescado-con-fideos-v.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2019/07/sopa-de-pescado-y-fideos-c.jpg"]
+        }
+    ],
+    "Postres": [
+        {
+            "titulo":"Flan de mango sin horno",
+            "subtitulo": "Esta receta de flan de mango sin horno se prepara en pocos minutos",
+            "texto":"Te sorprenderá la textura y cremosidad de esta receta de flan de mango, y es tan fácil de preparar que se va a convertir en un must entre tus postres fáciles.",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "Un mango entero de buen tamaño, pelado y cortado en cubos (250 g de pulpa de fruta)",
+                "1/2 lata de leche condensada (200 g)",
+                "El zumo de medio limón",
+                "Un vaso de yogur natural tipo griego (125 g)",
+                "La mitad del vasito de yogur lleno de leche y la otra mitad de nata (crema de leche)",
+                "1 sobre de gelatina neutra (12 g)"
+            ],
+            "titulo3":"ELABORACIÓN del Flan de Mango sin horno",
+            "elaboracion":[
+                "Calentamos en el microondas la leche en un vaso de loza o cristal y cuando esté muy caliente diluimos en ella el contenido del sobre de gelatina o las 6 hojas de gelatina previamente hidratadas. Mezclamos muy bien hasta que no queden grumos y la gelatina se diluya por completo. Si es necesario calentamos unos segundos más en el microondas pero recuerda que la gelatina no debe hervir.",
+                "Ponemos todos los ingredientes del flan de mango en el vaso de la batidora y añadimos la gelatina diluida en la leche. Trituramos muy bien hasta que quede una pasta ligada y muy lisa.",
+                "Ponemos la mezcla en moldes individuales o un molde grande y llevamos a la nevera un mínimo de 4 horas hasta que el flan de mango cuaje bien.",
+                "Servimos el flan de mango bien frío con nata montada o con mermeladas de frutas."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2015/06/flan-de-mango-C-.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/flan-de-mango.jpg"]
+        },
+        {
+            "titulo":"Canutillos de torrija con chocolate",
+            "subtitulo": "",
+            "texto":"Esta receta de canutillos de torrija es una forma diferente y fácil de disfrutar de este dulce tradicional. Y no esperes a Cuaresma, prepáralo todo el año!!",
+            "titulo2": "INGREDIENTES para 8 canutillos",
+            "ingredientes":[
+                "8 rebanadas de pan de molde sin corteza",
+                "1 huevo",
+                "Medio vaso de leche",
+                "Crema de cacao con avellanas",
+                "Aceite de oliva para freír",
+                "Azúcar",
+                "Canela molida"
+            ],
+            "titulo3":"ELABORACIÓN de los canutillos de torrija",
+            "elaboracion":[
+                "Lo primero que tenemos que hacer es dejar fuera del paquete las rebanadas de pan de molde unas horas para que se asienten un poco. Incluso se pueden dejar de un día para otro cubiertas con un paño.",
+                "Aplanamos las rebanadas de pan de molde con un rodillo.",
+                "Untamos con la crema de cacao y enrollamos para formar los canutillos.",
+                "Pasamos los canutillos por la leche fría para que se empapen y después los pasamos por el huevo batido.",
+                "Freímos en aceite bien caliente hasta que estén dorados.",
+                "Dejamos los canutillos sobre papel de cocina para escurrir el exceso de aceite y después los rebozamos con una mezcla a partes iguales de azúcar y canela.",
+                "Los canutillos de torrija se sirven templados o fríos."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/canutillo-de-torrija-3.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/canutillos-de-torrija.jpg"]
+        },
+        {
+            "titulo":"Muffins de avena y plátano en freidora de aire y sin azúcar",
+            "subtitulo": "Aquí tienes una receta simple para hacer muffins de avena y plátano en una freidora de aire, utilizando solo un plátano maduro y sin añadir azúcar.",
+            "texto":"Esta receta de muffins de avena y plátano es más que saludable, sin gluten, sin lactosa y sin azúcar, y la puedes personalizar añadiendo frutas a tu gusto para decorar. Avena y plátano combinan de maravilla en este postre saludable y sin azúcares añadidos.",
+            "titulo2": "INGREDIENTES para 6 muffins",
+            "ingredientes":[
+                "1 plátano maduro grande (cuanto más maduro esté, mejor saldrá la receta)",
+                "1 taza de copos de avena finos (son unos 100 g)",
+                "1 huevo entero",
+                "1 cucharada de leche de avena o de aceite de girasol",
+                "Opcional: Unas gotas de edulcorante líquido",
+                "1/2 cucharadita de levadura química (polvo de hornear)",
+                "Para aromatizar, una cucharadita de esencia de vainilla, o 1/2 cucharadita de canela en polvo o ralladura de lima o naranja, a tu gusto",
+                "Para decorar: Arándanos frescos o unas rodajas de plátano",
+                "Una pizca de sal"
+            ],
+            "titulo3":"Elaboración de los muffins de avena y plátano en freidora de aire",
+            "elaboracion":[
+                "Precalienta tu freidora de aire a 180 °C.",
+                "En un bol mediano, machaca el plátano maduro con un tenedor hasta que quede una pasta suave. Si el plátano está verde, puedes hacer esta receta pero perderá muchísimo sabor y tendrás que añadir unas gotas de edulcorante líquido si quieres que resulte dulce.",
+                "Agrega el huevo al plátano machacado y mezcla bien.",
+                "Incorpora la avena, el polvo de hornear, la canela (si estás usando) y una pizca de sal a la mezcla de plátano y huevo. Mezcla bien hasta que todos los ingredientes estén combinados.",
+                "Si quieres que resulte una mezcla más lisa lo puedes pasar todo por la batidora directamente. Pones todos los ingredientes en el vaso de la batidora y trituras hasta que esté a tu gusto.",
+                "Vierte la mezcla en moldes para muffins en grasados con aceite de girasol, llenándolos hasta aproximadamente 3/4 de su capacidad. Este es el momento de poner por encima unos arándanos o unas rodajas de plátano.",
+                "Coloca los moldes llenos en la cesta de la freidora de aire, procurando dejar espacio entre ellos para una cocción uniforme.",
+                "Hornea los muffins de avena y plátano en la freidora de aire precalentada a 180 °C durante unos 12-15 minutos, o hasta que los muffins estén dorados en la parte superior. Haz la prueba del palillo insertándolo en los muffins hasta que salsa limpio.",
+                "Una vez que los muffins de avena y plátano estén listos, sácalos de la freidora de aire y déjalos enfriar en los moldes durante unos minutos. Sácalos y déja que se enfríen por completo hasta el momento de servir."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/02/muffins-de-avena-y-platano-v3.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2024/02/muffins-de-avena-y-platano-v.jpg"]
+        },
+        {
+            "titulo":"Pastelillos Red Velvet",
+            "subtitulo": "",
+            "texto":"Este receta de pastelillos Red Velvet es similar a la del tradicional bizcocho, y convertimos el tradicional frosting de queso en un delicioso relleno.",
+            "titulo2": "INGREDIENTES para 8 pastelillos Red Velvet",
+            "ingredientes":[
+                "150 g de harina",
+                "1 cucharada colmada de cacao puro en polvo",
+                "150 de azúcar",
+                "60 g de mantequilla blanda",
+                "120 ml de leche + 1 cucharadita de zumo de limón o vinagre blanco (para la buttermilk)",
+                "1 huevo",
+                "2 cucharaditas de esencia de vainilla",
+                "1 cucharadita de vinagre blanco",
+                "½ cucharadita de bicarbonato sódico",
+                "1 cucharadita de colorante rojo en pasta"
+            ],
+            "titulo3":"ELABORACIÓN de los pastelillos red velvet",
+            "elaboracion":[
+                "Precalentamos el horno a 170º.",
+                "Mezclamos la leche con la cucharadita de zumo de limón. Dejamos la mezcla unos 10 o 15 minutos, con ello ya obtendremos nuestra buttermilk casera.",
+                "En un bol batimos la mantequilla con el azúcar, hasta tenerlo todo integrado. Sin dejar de batir, añadimos el huevo y las cucharaditas de vainilla.",
+                "Aparte tamizamos la harina con el cacao en polvo y lo vamos incorporando a la mezcla anterior, alternando con la buttermilk para que todo quede bien integrado. Aquí batimos a baja velocidad o con una espátula, para no sobrebatir la masa.",
+                "Ahora mezclamos el bicarbonato sódico con la cucharadita de vinagre y cuando burbujee lo añadimos a la masa y lo integramos bien.",
+                "Por último añadimos el colorante rojo. Es mejor que sea en pasta porque los que son de gel no tiñen igual de bien.",
+                "Ponemos la masa en moldes engrasados de cupcakes y llenamos unos dos tercios de capacidad, ya que con el calor subirán.",
+                "Horneamos 20 minutos en la parte media del horno y con calor arriba y abajo. Comprobamos que están hechas con un palillo.",
+                "Dejamos enfriar del todo. Cortamos cada bizcochito en ‘rebanadas’ antes de rellenar."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2017/06/pastelillos-red-velvet-c.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2017/06/pastelillos-red-velvet-v1.jpg"]
+        },
+        {
+            "titulo":"Panna cotta de turrón de Jijona",
+            "subtitulo": "Esta receta de Panna Cotta de turrón está lista en 10 minutos y siempre sale bien",
+            "texto":"La Panna Cotta (Panna Cotta receta original italiana) es uno de los grandes clásicos de la repostería exportado desde Italia al resto del mundo. Es unos de esos postres vistosos y festivos que siempre salen bien y se puede adaptar a mil sabores. En esta caso usamos turrón pero si te gusta este postre puedes ver nuestras recetas de panna cotta variedades de Panna Cotta de Chocolate o Panna Cotta de Café. ",
+            "titulo2": "INGREDIENTES para 4 personas",
+            "ingredientes":[
+                "400 ml de nata líquida de 35% especial para montar",
+                "125 g de turrón de Jijona",
+                "Una cucharada sopera de miel o de azúcar moreno (puedes usar el equivalente en edulcorante)",
+                "3 hojas de gelatina ",
+                "Para decorar: almendras tostadas, almendras picadas, frutos rojos…"
+            ],
+            "titulo3":"ELABORACIÓN de la Panna Cotta de turrón de Jijona",
+            "elaboracion":[
+                "Ponemos a hidratar las hojas de gelatina en agua fría.",
+                "En una cazuela ponemos la nata con el turrón desmenuzado, y agregamos la miel o azúcar (o su equivalente en edulcorante)- Revolvemos hasta que la mezcla se caliente y todo quede perfectamente integrado.",
+                "Si quieres acelerar el proceso puedes pasar todos los ingredientes por la batidora y calentar luego la mezcla ya lisa al fuego.",
+                "Una vez esté la mezcla ligada y bien caliente, incorporamos ya fuera del fuego las hojas de gelatina hidratadas y las mezclamos muy bien para que se integren por completo en la mezcla caliente.",
+                "Ponemos en moldes individuales o en vasitos de vidrio, a tu gusto. Dejamos que se refrigere durante un mínimo de dos horas para que cuaje.",
+                "Al momento de servir la panna cotta de turrón, desmoldamos y decoramos con almendras tostadas, almendras crocanti picadas o unos frutos rojos (grosellas, frambuesas…) al gusto de cada cual."
+            ],
+            "imagenes":["https://www.divinacocina.es/wp-content/uploads/2024/01/panna-cotta-de-turron-v3.jpg",
+        "https://www.divinacocina.es/wp-content/uploads/2024/01/panna-cotta-de-turron-c.jpg"]
+        }
+    ]
+}
