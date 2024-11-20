@@ -1,0 +1,55 @@
+###peticion get
+get http://localhost/apiHospital/
+
+###peticion get - registrar un usuario
+GET http://localhost/apiHospital/login
+Content-Type: application/json
+
+{
+    "name": "Juan",
+    "email": "juan@example.com",
+    "password": "juan12345",
+    "userType": "admin"
+}
+
+###peticion post para verificar usuarios
+POST http://localhost/apiHospital/login
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "password": "john123"
+}
+###peticion get para obtener usuarios
+GET http://localhost/apiHospital/users
+
+###peticion post para crear usuarios
+POST http://localhost/apiHospital/users
+Content-Type: application/json
+
+{
+    "name": "Pedro Perez",
+    "email": "pedro@example.com",
+    "password": "pedro12345",
+    "userType": "admin"
+}
+
+###peticion post para actualizar usuarios
+PUT http://localhost/apiHospital/users
+Content-Type: application/json
+
+{
+    "id": 7,
+    "name": "Anita",
+    "email": "anita1@example.com",
+    "password": "anita12345",
+    "userType": "doctor"
+}
+
+###peticion delete para inactivar usuarios
+DELETE http://localhost/apiHospital/users
+Content-Type: application/json
+
+{
+    "id": 7
+}
