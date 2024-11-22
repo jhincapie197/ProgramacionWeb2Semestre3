@@ -1,5 +1,4 @@
 import "./../../assets/sb-admin-2.min.css";
-import LoginData from "../../components/frontend/loginData";
 import { useForm } from "react-hook-form";
 //Variable que realiza el llamado a la api
 import { authenticateUser } from "../../store/authSlice";
